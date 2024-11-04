@@ -1,3 +1,6 @@
+## 3.0.0
+- Update http package
+
 ## 2.0.0
 - Migrate to null safety
 
